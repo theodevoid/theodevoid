@@ -1,6 +1,12 @@
 
 ![https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues](https://github-readme-stats.vercel.app/api?username=theodevoid&hide=contribs,prs,issues)
 
+![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)
+![Twitch](https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-48.png)
+![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)
+![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)
+![Twitter](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-48.png)
+
 Hello there 👋,
 
 I am a software developer dedicated on bringing value to communities around me. Aside from software development I have a burning passion for teaching, and creating content to share my knowledge to anyone willing to learn. Check out my projects down below, and kindly leave a star (or "like") if you found anything I've made useful. Feel free to connect with me through my socials listed up above. Looking forward to connecting with you! ❤️
