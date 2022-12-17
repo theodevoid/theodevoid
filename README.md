@@ -32,5 +32,5 @@ Here's a list of my tech stack and skills:
 
 Check out some of the things I've built!
 
-- Project 1
-- Project 2
+- [Empathattic (ongoing, staging version)](https://staging.empathattic.id)
+- more coming soon..
