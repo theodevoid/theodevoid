@@ -32,5 +32,5 @@ Here's a list of my tech stack and skills:
 
 Check out some of the things I've built!
 
-- [Empathattic (ongoing, staging version)](https://staging.empathattic.id)
-- more coming soon..
+- [Empathattic (discontinued, staging version)](https://staging.empathattic.id)
+- [Mikrommerce (ongoing, staging version)](https://mikrommerce.vercel.app/)
