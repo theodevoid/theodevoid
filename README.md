@@ -5,7 +5,6 @@
 [![Twitch](https://cdn0.iconfinder.com/data/icons/social-network-7/50/16-48.png)](https://www.twitch.tv/voidfnc)
 [![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/channel/UCA_gvQ2y7RqycyqWKu7cq-g)
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/theodevoid/)
-[![Twitter](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-48.png)](https://www.twitter.com/theodevoid)
 
 Hello there 👋,
 
@@ -24,13 +23,10 @@ Here's a list of my tech stack and skills:
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
 
-![Docker](https://img.shields.io/badge/-docker-blue?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/-kubernetes-blue?style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-jenkins-orange?style=for-the-badge)
-
 ---
 
 Check out some of the things I've built!
 
 - [Empathattic (discontinued, staging version)](https://staging.empathattic.id)
 - [Mikrommerce (ongoing, staging version)](https://mikrommerce.vercel.app/)
+- Wilayah Nusantara (Coming Soon)
