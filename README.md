@@ -29,4 +29,4 @@ Check out some of the things I've built!
 
 - [Empathattic (discontinued, staging version)](https://staging.empathattic.id)
 - [Mikrommerce (ongoing, staging version)](https://mikrommerce.vercel.app/)
-- Wilayah Nusantara (Coming Soon)
+- [Wilayah Nusantara](https://docs.wilayah-nusantara.id/)
