@@ -25,8 +25,7 @@ Here's a list of my tech stack and skills:
 
 ---
 
-Check out some of the things I've built!
+Check out some of the things I'm building!
 
-- [Empathattic (discontinued, staging version)](https://staging.empathattic.id)
-- [Mikrommerce (ongoing, staging version)](https://mikrommerce.vercel.app/)
 - [Wilayah Nusantara](https://docs.wilayah-nusantara.id/)
+- [V6 Academy](https://v6-academy.com) (under construction)
